@@ -1,0 +1,716 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.2/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\diasens.co.ua\ajax\libs\gsap\1.11.2\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.htm
+Content Type: text/html
+
+Uri: https://diasens.co.ua/index.php/comments/feed/
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://diasens.co.ua/index.php/feed/
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://diasens.co.ua/index.php/wp-json/
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://diasens.co.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiasens.co.ua%2F
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://diasens.co.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiasens.co.ua%2F&format=xml
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://diasens.co.ua/index.php/wp-json/wp/v2/pages/1671
+File Name: C:\Downloaded Web Sites\diasens.co.ua\index.php\wp-json\wp\v2\pages\1671
+Content Type: application/json
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css?ver=3.4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\css\go_pricing_styles.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/hover.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\hover.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_arrow.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_arrow.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_arrow2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_arrow2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_circle.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_circle.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_cross.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_cross.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_dot.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_dot.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_minus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_minus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_ok.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_ok.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_plus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_plus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_dark_star.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_dark_star.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_arrow.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_arrow.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_arrow2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_arrow2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_circle.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_circle.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_cross.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_cross.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_dot.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_dot.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_minus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_minus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_ok.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_ok.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_plus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_plus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_green_star.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_green_star.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_arrow.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_arrow.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_arrow2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_arrow2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_circle.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_circle.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_cross.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_cross.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_dot.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_dot.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_minus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_minus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_ok.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_ok.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_plus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_plus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_light_star.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_light_star.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_arrow.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_arrow.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_arrow2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_arrow2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_circle.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_circle.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_cross.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_cross.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_dot.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_dot.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_minus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_minus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_ok.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_ok.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_plus.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_plus.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_red_star.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_red_star.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_dark_email.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_dark_email.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_dark_facebook.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_dark_facebook.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_dark_skype.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_dark_skype.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_dark_twitter.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_dark_twitter.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_light_email.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_light_email.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_light_facebook.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_light_facebook.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_light_skype.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_light_skype.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_team_light_twitter.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_team_light_twitter.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_white_basket_large.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_white_basket_large.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_white_basket_medium.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_white_basket_medium.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/icons/icon_white_download_medium.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\icons\icon_white_download_medium.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/shadows/shadow_1.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\shadows\shadow_1.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/shadows/shadow_2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\shadows\shadow_2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/shadows/shadow_3.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\shadows\shadow_3.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/shadows/shadow_4.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\shadows\shadow_4.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/images/shadows/shadow_5.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\images\shadows\shadow_5.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/plugins/go_pricing/assets/js/go_pricing_scripts.js?ver=3.4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\go_pricing\assets\js\go_pricing_scripts.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\pro-elements\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\pro-elements\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\plugins\pro-elements\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/css/compatibility/elementor/elementor-global.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\css\compatibility\elementor\elementor-global.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/css/compatibility/elementor/the7-image-widget.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\css\compatibility\elementor\the7-image-widget.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/css/compatibility/elementor/the7-sticky-effects.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\css\compatibility\elementor\the7-sticky-effects.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/css/compatibility/elementor/the7-vertical-menu-widget.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\css\compatibility\elementor\the7-vertical-menu-widget.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/css/main.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\css\main.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/fullscreen-exit.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\fullscreen-exit.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/fullscreen.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\fullscreen.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-check-circle-fill.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-check-circle-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-chevron-down.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-chevron-left.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-chevron-right.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-chevron-side.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-chevron-side.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-exclamation-circle-fill.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-exclamation-circle-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/the7-share-fill.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\the7-share-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/x-lg.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\x-lg.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/zoom-in.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/images/zoom-out.svg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\images\zoom-out.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\above-the-fold.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/compatibility/elementor/frontend-common.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\compatibility\elementor\frontend-common.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/compatibility/elementor/sticky-effects.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\compatibility\elementor\sticky-effects.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/compatibility/elementor/the7-image-widget.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\compatibility\elementor\the7-image-widget.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/compatibility/elementor/the7-vertical-menu.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\compatibility\elementor\the7-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/js/main.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\lib\custom-scrollbar\custom-scrollbar.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\lib\custom-scrollbar\custom-scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/lib/jquery-mousewheel/jquery-mousewheel.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\lib\jquery-mousewheel\jquery-mousewheel.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/lib/jquery-sticky/jquery-sticky.min.js?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\lib\jquery-sticky\jquery-sticky.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-content/themes/dt-the7/style.css?ver=11.9.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\themes\dt-the7\style.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/2021/08/diasens-logo-2.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2021\08\diasens-logo-2.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2021/09/art-top00.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2021\09\art-top00.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/09/DEX1.jpg
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\09\DEX1.jpg
+Content Type: image/jpeg
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/09/dexcom-3-1.webp
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\09\dexcom-3-1.webp
+Content Type: image/webp
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/09/Dexcom-ONE-Transmitter-e1681562151865.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\09\Dexcom-ONE-Transmitter-e1681562151865.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/09/DX1-Sensor-300x300.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\09\DX1-Sensor-300x300.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/09/DX1-Sensors-3-pack-300x300.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\09\DX1-Sensors-3-pack-300x300.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/10/cropped-ds-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\10\cropped-ds-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/10/cropped-ds-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\10\cropped-ds-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/2023/10/cropped-ds-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\2023\10\cropped-ds-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\custom-frontend.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\custom-pro-frontend.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/global.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-1321.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-1321.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-1671.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-1671.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-4609.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-4609.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-4924.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-4924.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-5324.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-5324.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-5352.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-5352.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/css/post-9.css?ver=1719408761
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/custom-icons/the7-feather/fonts/the7-feather.eot?cy0au4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\custom-icons\the7-feather\fonts\the7-feather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/custom-icons/the7-feather/fonts/the7-feather.svg?cy0au4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\custom-icons\the7-feather\fonts\the7-feather.svg
+Content Type: image/svg+xml
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/custom-icons/the7-feather/fonts/the7-feather.ttf?cy0au4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\custom-icons\the7-feather\fonts\the7-feather.ttf
+Content Type: application/octet-stream
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/custom-icons/the7-feather/fonts/the7-feather.woff?cy0au4
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\custom-icons\the7-feather\fonts\the7-feather.woff
+Content Type: font/woff
+
+Uri: https://diasens.co.ua/wp-content/uploads/elementor/custom-icons/the7-feather/style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\elementor\custom-icons\the7-feather\style.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/the7-css/css-vars.css?ver=504c8499d920
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\the7-css\css-vars.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/the7-css/custom.css?ver=504c8499d920
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\the7-css\custom.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/the7-css/media.css?ver=504c8499d920
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\the7-css\media.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/the7-css/mega-menu.css?ver=504c8499d920
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\the7-css\mega-menu.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-content/uploads/the7-css/post-type-dynamic.css?ver=504c8499d920
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-content\uploads\the7-css\post-type-dynamic.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://diasens.co.ua/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\diasens.co.ua\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://diasens.co.ua/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\diasens.co.ua\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.5
+File Name: C:\Downloaded Web Sites\diasens.co.ua\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\diasens.co.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
